@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+results/
+digit_examples.png
+# Generated datasets: do not publish the instructor's final key
+data/public/
+data/private/
+submissions/
+*.joblib
+*.pkl
